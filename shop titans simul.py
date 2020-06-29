@@ -16,7 +16,7 @@ hero_max_hp = 503;
 hero_attack = 8346;
 hero_evasion = 75;
 hero_crit_chance = 20;
-hero_crit_modifier = 3.5;
+hero_crit_modifier = 4;
 lizard_spirits = 6;
 
 # Enemy Information.
