@@ -20,9 +20,9 @@ hero_crit_modifier = 3.5;
 lizard_spirits = 6;
 
 # Enemy Information.
-# By default, this is for Haunted Castle Hard,
-# and assumes the hero has reached the defense cap.
-# Adjust these stats based on the dungeon you want to simulate.
+# By default, this is for Haunted Castle Hard. Adjust the
+# enemy's damage based on your hero's defense stat. To find this,
+# enter a battle and see how much damage they take.
 
 enemy_crit_rate = 10;
 enemy_normal_damage = 59;
