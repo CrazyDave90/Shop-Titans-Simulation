@@ -27,7 +27,7 @@ lizard_spirits = 6;
 enemy_crit_rate = 10;
 enemy_normal_damage = 59;
 enemy_crit_damage = 177;
-enemy_max_hp = 120000;
+enemy_max_hp = 250000;
 
 # Next, we simulate 100,000 battles and compute the win percentage.
 
